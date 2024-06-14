@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SlickleCode
+- 👀 I’m interested in gamedev and learning
